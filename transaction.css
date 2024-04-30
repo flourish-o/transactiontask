@@ -420,6 +420,217 @@ h3 {
 }
 
 @media only screen and(max-width:389px) {
+  * {
+    margin: 0px;
+    padding: 0;
+  }
+
+  #login-h1 {
+    display: flex;
+    font-size: 25px;
+    width: 300px;
+
+    justify-content: center;
+  }
+  #something {
+    display: flex;
+  }
+
+  #user-id {
+    width: 300px;
+  }
+
+  #login-page {
+    margin-bottom: 100%;
+  }
+
+  .hero-contents {
+    /* max-height: 100000px; */
+    height: fit-content;
+  }
+  .show-body {
+    margin: 0 30px;
+  }
+  #header {
+    display: flex;
+    align-self: flex-start;
+    margin-left: 24px;
+    margin-top: 15px;
+    gap: 25px;
+    margin-right: 0;
+    position: relative;
+    width: 400px;
+  }
+
+  #profile-span {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.578);
+    font-family: Tahoma;
+    font-weight: bold;
+  }
+  #main-page {
+    align-items: normal;
+  }
+  #header-up {
+  }
+  #verified {
+    height: 40px;
+    width: 40px;
+    top: 65px;
+    left: 78px;
+  }
+  .welcome-text {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  #prof-image {
+    height: 100px;
+    width: 90px;
+    margin-left: 15px;
+  }
+  #imgxpremium {
+    display: flex;
+  }
+
+  #section-1 {
+    margin-top: 0px;
+    align-self: center;
+    position: absolute;
+    top: 200px;
+  }
+  #hello-h4 {
+    font-size: 25px;
+  }
+  #welcome-h1 {
+    font-size: 35px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+  #balance-span {
+    font-size: 15px;
+  }
+
+  .balance {
+    height: 70px;
+    width: 200px;
+  }
+  .balance-sub {
+    height: 60px;
+    width: 200px;
+  }
+  #thePayment {
+    width: 300px;
+  }
+
+  #sub-h3 {
+    font-size: 15px;
+    justify-content: left;
+    display: flex;
+    margin-left: 10px;
+  }
+  #sub-span {
+    font-size: 13px;
+    justify-content: left;
+    display: flex;
+    margin-left: 10px;
+  }
+  .groupings {
+    display: flex;
+    flex-direction: column;
+  }
+  #note-upper {
+    height: 19px;
+  }
+  #note-span {
+    font-size: 13px;
+    gap: 2px;
+  }
+  #special-div {
+    height: 220px;
+    width: 370px;
+    margin-top: 7px;
+  }
+  #special-div-2 {
+    height: 110px;
+    width: 300px;
+  }
+  #section2 {
+    align-self: flex-start;
+    margin-right: 0;
+    margin-top: 10px;
+  }
+  #section4 {
+    align-self: flex-start;
+    height: 450px;
+    width: 370px;
+    position: absolute;
+    top: 135px;
+    margin: 0 20px;
+  }
+  .upper-body {
+    gap: 20px;
+  }
+  #sec4-img {
+    height: 30px;
+    width: 30px;
+  }
+  #span-4 {
+    font-size: 11px;
+  }
+  #h6-4 {
+    font-size: 14px;
+  }
+  #sec4-h3 {
+    font-size: 12px;
+  }
+  #sec4-span {
+    font-size: 11px;
+  }
+  #section3 {
+    align-self: flex-start;
+    margin-right: 30px;
+    margin-top: 0px;
+    position: absolute;
+    top: 125px;
+  }
+  .footer-pic {
+    height: 20px;
+    width: 20px;
+  }
+  .hero-footer {
+    flex-direction: row;
+    bottom: 7px;
+    right: 0;
+    gap: 12px;
+    left: 0px;
+    margin: 0;
+  }
+  .footer-button {
+    font-size: 10px;
+    flex-direction: column;
+    border: none;
+    width: 90px;
+  }
+  .footer-button:active {
+    transform: scale(0.9);
+    background-color: transparent;
+  }
+  .footer-button:focus {
+    background-color: transparent;
+    border: 1px solid black;
+  }
+  #transaction-button {
+    width: 80px;
+  }
+  /* #logout-button {
+    margin-left: 100px;
+  } */
+  .personal-info {
+    gap: 15px;
+  }
 }
 
 @media only screen and (min-width: 390px) and (max-width: 765px) {
@@ -607,7 +818,7 @@ h3 {
     flex-direction: row;
     bottom: 7px;
     right: 0;
-    gap: 18px;
+    gap: 12px;
     left: 0px;
     margin: 0;
   }
