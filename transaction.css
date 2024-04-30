@@ -425,6 +425,15 @@ h3 {
     padding: 0;
   }
 
+  .balance-2 {
+    width: 250px;
+  }
+  #two-h3 {
+    font-size: 17px;
+  }
+  #two-span {
+    font-size: 13px;
+  }
   #login-h1 {
     display: flex;
     font-size: 25px;
@@ -434,6 +443,7 @@ h3 {
   }
   #something {
     display: flex;
+    text-align: center;
   }
 
   #user-id {
@@ -449,7 +459,7 @@ h3 {
     height: fit-content;
   }
   .show-body {
-    margin: 0 30px;
+    margin: 0 10px;
   }
   #header {
     display: flex;
@@ -476,17 +486,17 @@ h3 {
   #verified {
     height: 40px;
     width: 40px;
-    top: 65px;
-    left: 78px;
+    top: 50px;
+    left: 68px;
   }
   .welcome-text {
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 0px;
   }
   #prof-image {
-    height: 100px;
-    width: 90px;
+    height: 80px;
+    width: 80px;
     margin-left: 15px;
   }
   #imgxpremium {
@@ -500,17 +510,17 @@ h3 {
     top: 200px;
   }
   #hello-h4 {
-    font-size: 25px;
+    font-size: 20px;
   }
   #welcome-h1 {
-    font-size: 35px;
+    font-size: 30px;
   }
 
   h3 {
-    font-size: 24px;
+    font-size: 22px;
   }
   #balance-span {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .balance {
@@ -526,13 +536,13 @@ h3 {
   }
 
   #sub-h3 {
-    font-size: 15px;
+    font-size: 13px;
     justify-content: left;
     display: flex;
     margin-left: 10px;
   }
   #sub-span {
-    font-size: 13px;
+    font-size: 12px;
     justify-content: left;
     display: flex;
     margin-left: 10px;
@@ -545,12 +555,12 @@ h3 {
     height: 19px;
   }
   #note-span {
-    font-size: 13px;
+    font-size: 12px;
     gap: 2px;
   }
   #special-div {
     height: 220px;
-    width: 370px;
+    width: 360px;
     margin-top: 7px;
   }
   #special-div-2 {
@@ -584,10 +594,10 @@ h3 {
     font-size: 14px;
   }
   #sec4-h3 {
-    font-size: 12px;
+    font-size: 11px;
   }
   #sec4-span {
-    font-size: 11px;
+    font-size: 10px;
   }
   #section3 {
     align-self: flex-start;
@@ -604,7 +614,7 @@ h3 {
     flex-direction: row;
     bottom: 7px;
     right: 0;
-    gap: 12px;
+    gap: 8px;
     left: 0px;
     margin: 0;
   }
@@ -612,7 +622,7 @@ h3 {
     font-size: 10px;
     flex-direction: column;
     border: none;
-    width: 90px;
+    width: 75px;
   }
   .footer-button:active {
     transform: scale(0.9);
@@ -648,6 +658,7 @@ h3 {
   }
   #something {
     display: flex;
+    text-align: center;
   }
 
   #user-id {
