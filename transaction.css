@@ -559,11 +559,11 @@ h3 {
     height: 19px;
   }
   #note-span {
-    font-size: 12px;
+    font-size: 11px;
     gap: 2px;
   }
   #special-div {
-    height: 220px;
+    height: 230px;
     width: 330px;
     margin-top: 7px;
   }
@@ -606,7 +606,8 @@ h3 {
     font-size: 10px;
   }
   #section3 {
-    align-self: flex-start;
+    margin-right: 0;
+    align-self: center;
     margin-top: 0px;
     position: absolute;
     top: 125px;
