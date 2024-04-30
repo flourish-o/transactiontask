@@ -377,7 +377,7 @@ h3 {
 
 #span-4 {
   font-size: 16px;
-  font-family: sans-serif;
+  font-family: Helvetica;
   color: rgba(0, 0, 0, 0.688);
 }
 #h6-4 {
@@ -391,7 +391,7 @@ h3 {
 #sec4-span {
   font-size: 16px;
   color: rgba(0, 0, 0, 0.389);
-  font-family: sans-serif;
+  font-family: Helvetica;
   font-weight: bold;
 }
 
@@ -549,15 +549,15 @@ h3 {
   }
   #note-span {
     font-size: 13px;
-    gap: 4px;
+    gap: 2px;
   }
   #special-div {
-    height: 280px;
+    height: 220px;
     width: 370px;
-    margin-top: 10px;
+    margin-top: 7px;
   }
   #special-div-2 {
-    height: 130px;
+    height: 110px;
     width: 300px;
   }
   #section2 {
@@ -567,37 +567,37 @@ h3 {
   }
   #section4 {
     align-self: flex-start;
-    height: 500px;
-    width: 384px;
+    height: 450px;
+    width: 360px;
     position: absolute;
     top: 150px;
     margin: 0 20px;
   }
   .upper-body {
-    gap: 28px;
+    gap: 20px;
   }
   #sec4-img {
     height: 30px;
     width: 30px;
   }
   #span-4 {
-    font-size: 12px;
+    font-size: 11px;
   }
   #h6-4 {
-    font-size: 15px;
-  }
-  #sec4-h3 {
     font-size: 14px;
   }
-  #sec4-span {
+  #sec4-h3 {
     font-size: 12px;
+  }
+  #sec4-span {
+    font-size: 11px;
   }
   #section3 {
     align-self: flex-start;
     margin-right: 30px;
-    margin-top: 40px;
+    margin-top: 0px;
     position: absolute;
-    top: 150px;
+    top: 140px;
   }
   .footer-pic {
     height: 20px;
