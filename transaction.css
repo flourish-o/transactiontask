@@ -497,7 +497,7 @@ h3 {
   }
 
   #section-1 {
-    margin-top: 120px;
+    margin-top: 0px;
     align-self: center;
     position: absolute;
     top: 200px;
@@ -568,9 +568,9 @@ h3 {
   #section4 {
     align-self: flex-start;
     height: 450px;
-    width: 360px;
+    width: 370px;
     position: absolute;
-    top: 150px;
+    top: 135px;
     margin: 0 20px;
   }
   .upper-body {
@@ -597,7 +597,7 @@ h3 {
     margin-right: 30px;
     margin-top: 0px;
     position: absolute;
-    top: 140px;
+    top: 125px;
   }
   .footer-pic {
     height: 20px;
@@ -629,9 +629,9 @@ h3 {
   #transaction-button {
     width: 80px;
   }
-  #logout-button {
+  /* #logout-button {
     margin-left: 100px;
-  }
+  } */
   .personal-info {
     gap: 15px;
   }
