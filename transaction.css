@@ -419,7 +419,7 @@ h3 {
   transform: scale(0.9);
 }
 
-@media only screen and(max-width:389px) {
+@media only screen and (min-width: 300px) and (max-width: 389px) {
   * {
     margin: 0px;
     padding: 0;
