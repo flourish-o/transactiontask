@@ -641,9 +641,9 @@ h3 {
   #transaction-button {
     width: 80px;
   }
-  /* #logout-button {
-    margin-left: 100px;
-  } */
+  #logout-button {
+    font-size: 16px;
+  }
   .personal-info {
     gap: 15px;
   }
